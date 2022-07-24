@@ -1,0 +1,30 @@
+E:\1\SQl\KetNoiCSDL\QuanLy\BTL_AI\TuVanDuLich\TuVanDuLich\bin\Debug\TuVanDuLich.exe.config
+E:\1\SQl\KetNoiCSDL\QuanLy\BTL_AI\TuVanDuLich\TuVanDuLich\bin\Debug\TuVanDuLich.exe
+E:\1\SQl\KetNoiCSDL\QuanLy\BTL_AI\TuVanDuLich\TuVanDuLich\bin\Debug\TuVanDuLich.pdb
+E:\1\SQl\KetNoiCSDL\QuanLy\BTL_AI\TuVanDuLich\TuVanDuLich\obj\Debug\TuVanDuLich.csprojResolveAssemblyReference.cache
+E:\1\SQl\KetNoiCSDL\QuanLy\BTL_AI\TuVanDuLich\TuVanDuLich\obj\Debug\TuVanDuLich.TuVan.resources
+E:\1\SQl\KetNoiCSDL\QuanLy\BTL_AI\TuVanDuLich\TuVanDuLich\obj\Debug\TuVanDuLich.Properties.Resources.resources
+E:\1\SQl\KetNoiCSDL\QuanLy\BTL_AI\TuVanDuLich\TuVanDuLich\obj\Debug\TuVanDuLich.csproj.GenerateResource.Cache
+E:\1\SQl\KetNoiCSDL\QuanLy\BTL_AI\TuVanDuLich\TuVanDuLich\obj\Debug\TuVanDuLich.exe
+E:\1\SQl\KetNoiCSDL\QuanLy\BTL_AI\TuVanDuLich\TuVanDuLich\obj\Debug\TuVanDuLich.pdb
+E:\1\SQl\KetNoiCSDL\QuanLy\BTL_AI - Copy\TuVanDuLich\TuVanDuLich\bin\Debug\TuVanDuLich.exe.config
+E:\1\SQl\KetNoiCSDL\QuanLy\BTL_AI - Copy\TuVanDuLich\TuVanDuLich\obj\Debug\TuVanDuLich.exe
+E:\1\SQl\KetNoiCSDL\QuanLy\BTL_AI - Copy\TuVanDuLich\TuVanDuLich\obj\Debug\TuVanDuLich.pdb
+E:\1\SQl\KetNoiCSDL\QuanLy\BTL_AI - Copy\TuVanDuLich\TuVanDuLich\bin\Debug\TuVanDuLich.exe
+E:\1\SQl\KetNoiCSDL\QuanLy\BTL_AI - Copy\TuVanDuLich\TuVanDuLich\bin\Debug\TuVanDuLich.pdb
+E:\1\SQl\KetNoiCSDL\QuanLy\BTL_AI - Copy\TuVanDuLich\TuVanDuLich\obj\Debug\TuVanDuLich.csprojResolveAssemblyReference.cache
+E:\1\SQl\KetNoiCSDL\QuanLy\BTL_AI - Copy\TuVanDuLich\TuVanDuLich\obj\Debug\TuVanDuLich.TuVan.resources
+E:\1\SQl\KetNoiCSDL\QuanLy\BTL_AI - Copy\TuVanDuLich\TuVanDuLich\obj\Debug\TuVanDuLich.Properties.Resources.resources
+E:\1\SQl\KetNoiCSDL\QuanLy\BTL_AI - Copy\TuVanDuLich\TuVanDuLich\obj\Debug\TuVanDuLich.csproj.GenerateResource.Cache
+C:\Users\K's\Desktop\TuVanDuLich\TuVanDuLich\bin\Debug\TuVanDuLich.exe.config
+C:\Users\K's\Desktop\TuVanDuLich\TuVanDuLich\obj\Debug\TuVanDuLich.exe
+C:\Users\K's\Desktop\TuVanDuLich\TuVanDuLich\obj\Debug\TuVanDuLich.pdb
+C:\Users\K's\Desktop\TuVanDuLich\TuVanDuLich\bin\Debug\TuVanDuLich.exe
+C:\Users\K's\Desktop\TuVanDuLich\TuVanDuLich\bin\Debug\TuVanDuLich.pdb
+C:\Users\K's\Desktop\TuVanDuLich\TuVanDuLich\obj\Debug\TuVanDuLich.csprojResolveAssemblyReference.cache
+C:\Users\K's\Desktop\TuVanDuLich\TuVanDuLich\obj\Debug\TuVanDuLich.TuVan.resources
+C:\Users\K's\Desktop\TuVanDuLich\TuVanDuLich\obj\Debug\TuVanDuLich.Properties.Resources.resources
+C:\Users\K's\Desktop\TuVanDuLich\TuVanDuLich\obj\Debug\TuVanDuLich.csproj.GenerateResource.Cache
+C:\Users\K's\Downloads\TuVanDuLich\TuVanDuLich\bin\Debug\TuVanDuLich.exe.config
+C:\Users\K's\Downloads\TuVanDuLich\TuVanDuLich\obj\Debug\TuVanDuLich.exe
+C:\Users\K's\Downloads\TuVanDuLich\TuVanDuLich\obj\Debug\TuVanDuLich.pdb
